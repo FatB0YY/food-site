@@ -9,3 +9,5 @@
 5. подгрузка эл с JSON
 6. таймер
 7. плавный скролл
+
+Посмотреть сайт [HERE](https://fatb0yy.github.io/food-site/dist/)
